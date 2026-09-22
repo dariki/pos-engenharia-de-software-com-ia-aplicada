@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diabetes Risk Prediction</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main>
+    <h1>Diabetes Risk Prediction</h1>
+
+    <form id="patient-form">
+      <label>
+        Age
+        <input type="number" name="age" min="0" max="120" required />
+      </label>
+
+      <label>
+        Gender
+        <select name="gender" required>
+          <option value="Male">Male</option>
+          <option value="Female">Female</option>
+        </select>
+      </label>
+
+      <label>
+        City
+        <select name="city" id="city-select" required></select>
+      </label>
+
+      <label>
+        BMI
+        <input type="number" name="bmi" step="0.1" min="0" required />
+      </label>
+
+      <label>
+        Fasting Blood Sugar
+        <input type="number" name="fasting_blood_sugar" min="0" required />
+      </label>
+
+      <label>
+        HbA1c Level
+        <input type="number" name="hba1c_level" step="0.1" min="0" required />
+      </label>
+
+      <button type="submit">Predict</button>
+    </form>
+
+    <section id="result" hidden>
+      <h2>Result</h2>
+      <ul id="result-list"></ul>
+    </section>
+
+    <p id="error-message" hidden></p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

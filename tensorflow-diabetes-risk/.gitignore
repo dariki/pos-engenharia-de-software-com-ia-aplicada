@@ -1,3 +1,4 @@
 node_modules/
 .env
 *.log
+data/diabetes_risk.full.json
