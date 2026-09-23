@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Souza",
+    "age": 28,
+    "gender": "female",
+    "likedMovies": [
+      "Avatar",
+      "Titanic",
+      "The Lord of the Rings: The Return of the King"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bruno Lima",
+    "age": 34,
+    "gender": "male",
+    "likedMovies": [
+      "The Dark Knight",
+      "The Dark Knight Rises",
+      "Skyfall"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Carla Mendes",
+    "age": 22,
+    "gender": "female",
+    "likedMovies": [
+      "Frozen",
+      "Zootopia",
+      "Finding Dory"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diego Ferreira",
+    "age": 40,
+    "gender": "male",
+    "likedMovies": [
+      "The Avengers",
+      "Avengers: Age of Ultron",
+      "Iron Man 3",
+      "Captain America: Civil War"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elisa Rocha",
+    "age": 19,
+    "gender": "female",
+    "likedMovies": [
+      "Beauty and the Beast",
+      "Alice in Wonderland",
+      "Toy Story 3"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fabio Alves",
+    "age": 31,
+    "gender": "male",
+    "likedMovies": [
+      "Furious 7",
+      "The Fate of the Furious",
+      "Transformers: Age of Extinction"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gabriela Santos",
+    "age": 26,
+    "gender": "female",
+    "likedMovies": [
+      "Harry Potter and the Deathly Hallows: Part 2",
+      "The Hobbit: An Unexpected Journey",
+      "The Lord of the Rings: The Return of the King"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Henrique Costa",
+    "age": 45,
+    "gender": "male",
+    "likedMovies": [
+      "Star Wars: The Force Awakens",
+      "Rogue One: A Star Wars Story",
+      "Jurassic World"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Isabela Martins",
+    "age": 24,
+    "gender": "female",
+    "likedMovies": [
+      "Minions",
+      "Despicable Me 3",
+      "Toy Story 3"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Joao Pereira",
+    "age": 37,
+    "gender": "male",
+    "likedMovies": [
+      "Pirates of the Caribbean: Dead Man's Chest",
+      "Pirates of the Caribbean: On Stranger Tides",
+      "Transformers: Dark of the Moon"
+    ]
+  }
+]

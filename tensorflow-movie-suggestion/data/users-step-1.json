@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Souza",
+    "age": 28,
+    "gender": "female",
+    "likedMovie": "Avatar"
+  },
+  {
+    "id": 2,
+    "name": "Bruno Lima",
+    "age": 34,
+    "gender": "male",
+    "likedMovie": "The Dark Knight"
+  },
+  {
+    "id": 3,
+    "name": "Carla Mendes",
+    "age": 22,
+    "gender": "female",
+    "likedMovie": "Frozen"
+  }
+]
